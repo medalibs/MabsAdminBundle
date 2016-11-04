@@ -1,0 +1,4 @@
+services:
+#    mabs_admin_lte.example:
+#        class: Mabs\AdminLTEBundle\Example
+#        arguments: ["@service_id", "plain_value", "%parameter%"]

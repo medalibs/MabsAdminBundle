@@ -1,0 +1,16 @@
+{
+    "name": "mabs/mabs-admin-lte",
+    "type": "symfony-bundle",
+    "description": "Symfony MabsAdminLTEBundle",
+    "keywords": ["AdminLte", "bootstrap", "css", "admin"],
+    "authors": [
+    {
+        "name": "Mohamed Ali Ben Slama",
+        "email": "ben.slama.mohamed.ali@gmail.com",
+        "homepage": ""
+    }
+    ],
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
