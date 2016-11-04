@@ -1,5 +1,5 @@
 {
-    "name": "mabs/mabs-admin-lte",
+    "name": "medalibs/mabs-admin-lte",
     "type": "symfony-bundle",
     "description": "Symfony MabsAdminLTEBundle",
     "keywords": ["AdminLte", "bootstrap", "css", "admin"],
