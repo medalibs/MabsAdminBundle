@@ -16,6 +16,6 @@
     "autoload": {
         "psr-0": { "Medalibs\\MabsAdminLTEBundle": "" }
     },
-    "target-dir": "Medalibs/MabsAdminLTEBundle",
+    "target-dir": "Medalibs/MabsAdminLTEBundle"
 
 }
